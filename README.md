@@ -1,1 +1,5 @@
-# 1030520809_BS435_WebProgramlama
+Öğrenci Numarası: 1030520809
+
+Öğrenci Adı: Adem Dizdaroğlu
+
+Ders Adı: BS435 Web Programlama
